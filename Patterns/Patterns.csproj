@@ -8,10 +8,7 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <Folder Include="Behavioral\" />
       <Folder Include="CreationalPatterns\" />
-      <Folder Include="Structural\Adapter\" />
-      <Folder Include="Structural\Decorator\" />
     </ItemGroup>
 
 </Project>
